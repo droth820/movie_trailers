@@ -18,6 +18,7 @@ main_page_head = '''
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
+            background-color:#06668f;
             padding-top: 80px;
         }
         h2{
