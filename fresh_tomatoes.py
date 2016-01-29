@@ -22,7 +22,7 @@ main_page_head = '''
             padding-top: 80px;
         }
         h2{
-            font-size: 24px;
+            font-size: 20px;
         }
         #trailer .modal-dialog {
             margin-top: 200px;

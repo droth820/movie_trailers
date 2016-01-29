@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 #Avator movie information
-order_of_phoenix = media.Movie("Harry Potter and the Order fo the Phoenix",
+order_of_phoenix = media.Movie("Harry Potter: Order of the Phoenix",
                       "Now in his fifth year at Hogwarts, Harry (Daniel Radcliffe) learns that many in the wizarding community do not know the truth of his encounter with Lord Voldemort. Cornelius Fudge, minister of Magic, appoints his toady, Dolores Umbridge, as Defense Against the Dark Arts teacher, for he fears that professor Dumbledore will take his job. But her teaching is deficient and her methods, cruel, so Harry prepares a group of students to defend the school against a rising tide of evil.",
                       "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",
                       "https://youtu.be/y6ZW7KXaXYk")
@@ -18,7 +18,7 @@ iron_man = media.Movie("Iron Man",
 #iron_man.show_trailer()
 
 #Harry Potter and the Halfblood Prince movie information
-harry_potter = media.Movie("Harry Potter and the Half-Blood Prince",
+harry_potter = media.Movie("Harry Potter: Half-Blood Prince",
                             "As Death Eaters wreak havoc in both Muggle and Wizard worlds, Hogwarts is no longer a safe haven for students. Though Harry (Daniel Radcliffe) suspects there are new dangers lurking within the castle walls, Dumbledore is more intent than ever on preparing the young wizard for the final battle with Voldemort. Meanwhile, teenage hormones run rampant through Hogwarts, presenting a different sort of danger. Love may be in the air, but tragedy looms, and Hogwarts may never be the same again.",
                             "https://upload.wikimedia.org/wikipedia/en/6/68/Harry_Potter_and_the_Half-Blood_Prince_%28video_game%29.jpg",
                             "https://youtu.be/5ywxgP9OudI")
