@@ -18,7 +18,7 @@ main_page_head = '''
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
-            background-color:#06668f;
+            background-color:#06668F;
             padding-top: 80px;
         }
         h2{
@@ -44,7 +44,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #3f8DAE;
             cursor: pointer;
         }
         .scale-media {
