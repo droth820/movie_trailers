@@ -2,10 +2,10 @@ import fresh_tomatoes
 import media
 
 #Avator movie information
-avatar = media.Movie("Avatar",
-                      "The film is set in the mid-22nd century, when humans are colonizing Pandora, a lush habitable moon of a gas giant in the Alpha Centauri star system, in order to mine the mineral unobtanium,[9][10] a room-temperature superconductor.[11] The expansion of the mining colony threatens the continued existence of a local tribe of Na'vi – a humanoid species indigenous to Pandora. The film's title refers to a genetically engineered Na'vi body with the mind of a remotely located human that is used to interact with the natives of Pandora.",
-                      "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
-                      "https://youtu.be/EPTHpG7ovak")
+order_of_phoenix = media.Movie("Harry Potter and the Order fo the Phoenix",
+                      "Now in his fifth year at Hogwarts, Harry (Daniel Radcliffe) learns that many in the wizarding community do not know the truth of his encounter with Lord Voldemort. Cornelius Fudge, minister of Magic, appoints his toady, Dolores Umbridge, as Defense Against the Dark Arts teacher, for he fears that professor Dumbledore will take his job. But her teaching is deficient and her methods, cruel, so Harry prepares a group of students to defend the school against a rising tide of evil.",
+                      "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",
+                      "https://youtu.be/y6ZW7KXaXYk")
 
 #print(avatar.storyline)
 #avatar.show_trailer()
@@ -43,5 +43,5 @@ star_wars_force_awakens = media.Movie("Star Wars the Force Awakens",
 
 
 #Create a list of movies to be displayed in web page
-movies = [avatar, iron_man, harry_potter, avengers, batman_begins, star_wars_force_awakens]
+movies = [order_of_phoenix, iron_man, harry_potter, avengers, batman_begins, star_wars_force_awakens]
 fresh_tomatoes.open_movies_page(movies)
