@@ -5,7 +5,7 @@ import media
 avatar = media.Movie("Avatar",
                       "A Marine on an alien planet",
                       "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
-                      "https://www.youtube.com/embed/5PSNL1qE6VY")
+                      "https://youtu.be/EPTHpG7ovak")
 
 #print(avatar.storyline)
 #avatar.show_trailer()
