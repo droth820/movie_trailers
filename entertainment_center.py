@@ -8,13 +8,7 @@ import media
 order_of_phoenix = media.Movie("Harry Potter: Order of the Phoenix",
                                "Now in his fifth year at Hogwarts, Harry (Daniel Radcliffe)\
                                learns that many in the wizarding community do not know the\
-                               truth of his encounter with Lord Voldemort. Cornelius Fudge,\
-                               minister of Magic, appoints his toady, Dolores Umbridge, as\
-                               Defense Against the Dark Arts teacher, for he fears that\
-                               professor Dumbledore will take his job. But her teaching\
-                               is deficient and her methods, cruel, so Harry prepares a\
-                               group of students to defend the school against a rising tide\
-                               of evil.",
+                               truth of his encounter with Lord Voldemort.",
                                "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg", # NOQA
                                "https://youtu.be/y6ZW7KXaXYk")
 
@@ -40,10 +34,7 @@ harry_potter = media.Movie("Harry Potter: Half-Blood Prince",
                            Hogwarts is no longer a safe haven for students. Though Harry\
                            (Daniel Radcliffe) suspects there are new dangers lurking within\
                            the castle walls, Dumbledore is more intent than ever on preparing\
-                           the young wizard for the final battle with Voldemort. Meanwhile,\
-                           teenage hormones run rampant through Hogwarts, presenting a different\
-                           sort of danger. Love may be in the air, but tragedy looms, and Hogwarts\
-                           may never be the same again.",
+                           the young wizard for the final battle with Voldemort.",
                            "https://upload.wikimedia.org/wikipedia/en/6/68/Harry_Potter_and_the_Half-Blood_Prince_%28video_game%29.jpg", # NOQA
                            "https://youtu.be/5ywxgP9OudI")
 
@@ -66,8 +57,7 @@ batman_begins = media.Movie("Batman Begins",
                             mysterious League of Shadows. When Ducard reveals the League's true purpose,\
                             the complete destruction of Gotham City, Wayne returns to Gotham intent\
                             on cleaning up the city without resorting to murder. With the help of Alfred,\
-                            his loyal butler, and Lucius Fox, a tech expert at Wayne Enterprises, Batman is born."
-                            "When Ducard reveals the League's true purpose",
+                            his loyal butler, and Lucius Fox, a tech expert at Wayne Enterprises, Batman is born.",
                             "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg", # NOQA
                             "https://youtu.be/vak9ZLfhGnQ")
 
