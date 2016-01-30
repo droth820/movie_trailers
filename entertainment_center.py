@@ -66,7 +66,7 @@ batman_begins = media.Movie("Batman Begins",
                             mysterious League of Shadows. When Ducard reveals the League's true purpose,\
                             the complete destruction of Gotham City, Wayne returns to Gotham intent\
                             on cleaning up the city without resorting to murder. With the help of Alfred,\
-                            his loyal butler, and Lucius Fox, a tech expert at Wayne Enterprises, Batman is born.",
+                            his loyal butler, and Lucius Fox, a tech expert at Wayne Enterprises, Batman is born."
                             "When Ducard reveals the League's true purpose",
                             "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg", # NOQA
                             "https://youtu.be/vak9ZLfhGnQ")
